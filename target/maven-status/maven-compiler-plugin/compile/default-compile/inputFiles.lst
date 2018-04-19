@@ -1,0 +1,15 @@
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/shingles/ShingleReducer.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/other/WordCount.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/shingles/ShingleMapper.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/common/IntArrayWritable.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/lsh/LSHSimilarityMapper.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/other/MiniTnain.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/other/App.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/minhash/MinhashMapper.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/other/MinHashTest.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/other/MinHashString.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/minhash/LinearHash.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/Tnain.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/minhash/MinhashReducer.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/lsh/LSHSimilarityReducer.java
+/Users/azazel/Downloads/stryga 2/src/main/java/hadoop/common/TextArrayWritable.java
